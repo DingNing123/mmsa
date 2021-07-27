@@ -1,0 +1,10 @@
+.vscode
+**/__pycache__
+**.pth
+**.pkl
+**.npy
+.ipynb_checkpoints
+**.npz
+**jupyter
+/wandb/
+/oldcode/
