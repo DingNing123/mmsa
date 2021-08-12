@@ -34,6 +34,7 @@ run_dep.sh
 run_context.sh
 run_context_ouri.sh
 /home/dn/m_fusion/tsne/audio_representation.py
-tsne.py
-run_tsne.sh
-tsneInOne.py
+./utils/tsne.py
+./shell/run_tsne.sh
+./utils/tsneInOne.py
+.gitignore
